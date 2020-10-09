@@ -30,6 +30,7 @@ section {
    position: absolute;
    left: 50%;
    bottom: 0;
+   /* Transizione asse x  */
    transform: translateX(-50%);
 }
 
